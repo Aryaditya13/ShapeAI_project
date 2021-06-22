@@ -1,1 +1,1 @@
-# shpaeAI_project
+# shapeAI_project
